@@ -1,0 +1,9 @@
+{
+    "name": "Ottermation.Utils.Editor",
+    "references": [
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": []
+}

@@ -1,0 +1,15 @@
+{
+	"name": "com.ottermationstudios.otterutils",
+	"displayName": "OtterUtils",
+	"version": "0.1.0",
+	"unity": "6000.3",
+	"unityRelease": "8f1",
+	"description": "Ottermation Studios utils package. Currently only contains a remote deploy manager.",
+	"author": {
+		"name": "Ottermation Studios",
+		"url": "https://ottermationstudios.com"
+	},
+	"dependencies": {
+		"org.nuget.ssh.net": "2026.0.0"
+	}
+}
