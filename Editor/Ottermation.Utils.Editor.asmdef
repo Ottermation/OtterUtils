@@ -1,6 +1,7 @@
 {
     "name": "Ottermation.Utils.Editor",
     "references": [
+        "SshNet"
     ],
     "includePlatforms": [
         "Editor"

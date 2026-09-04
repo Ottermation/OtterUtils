@@ -8,8 +8,5 @@
 	"author": {
 		"name": "Ottermation Studios",
 		"url": "https://ottermationstudios.com"
-	},
-	"dependencies": {
-		"org.nuget.ssh.net": "2026.0.0"
 	}
 }
